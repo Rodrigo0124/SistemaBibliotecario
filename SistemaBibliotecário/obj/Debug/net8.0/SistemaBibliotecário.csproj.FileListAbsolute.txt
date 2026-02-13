@@ -1,0 +1,14 @@
+C:\Users\digow\Desktop\Projetos\SistemaBibliotecário\SistemaBibliotecário\obj\Debug\net8.0\SistemaBibliotecário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digow\Desktop\Projetos\SistemaBibliotecário\SistemaBibliotecário\obj\Debug\net8.0\SistemaBibliotecário.AssemblyInfoInputs.cache
+C:\Users\digow\Desktop\Projetos\SistemaBibliotecário\SistemaBibliotecário\obj\Debug\net8.0\SistemaBibliotecário.AssemblyInfo.cs
+C:\Users\digow\Desktop\Projetos\SistemaBibliotecário\SistemaBibliotecário\obj\Debug\net8.0\SistemaBibliotecário.csproj.CoreCompileInputs.cache
+C:\Users\digow\Desktop\Projetos\SistemaBibliotecário\SistemaBibliotecário\bin\Debug\net8.0\SistemaBibliotecário.exe
+C:\Users\digow\Desktop\Projetos\SistemaBibliotecário\SistemaBibliotecário\bin\Debug\net8.0\SistemaBibliotecário.deps.json
+C:\Users\digow\Desktop\Projetos\SistemaBibliotecário\SistemaBibliotecário\bin\Debug\net8.0\SistemaBibliotecário.runtimeconfig.json
+C:\Users\digow\Desktop\Projetos\SistemaBibliotecário\SistemaBibliotecário\bin\Debug\net8.0\SistemaBibliotecário.dll
+C:\Users\digow\Desktop\Projetos\SistemaBibliotecário\SistemaBibliotecário\bin\Debug\net8.0\SistemaBibliotecário.pdb
+C:\Users\digow\Desktop\Projetos\SistemaBibliotecário\SistemaBibliotecário\obj\Debug\net8.0\SistemaBibliotecário.dll
+C:\Users\digow\Desktop\Projetos\SistemaBibliotecário\SistemaBibliotecário\obj\Debug\net8.0\refint\SistemaBibliotecário.dll
+C:\Users\digow\Desktop\Projetos\SistemaBibliotecário\SistemaBibliotecário\obj\Debug\net8.0\SistemaBibliotecário.pdb
+C:\Users\digow\Desktop\Projetos\SistemaBibliotecário\SistemaBibliotecário\obj\Debug\net8.0\SistemaBibliotecário.genruntimeconfig.cache
+C:\Users\digow\Desktop\Projetos\SistemaBibliotecário\SistemaBibliotecário\obj\Debug\net8.0\ref\SistemaBibliotecário.dll
